@@ -1,0 +1,19 @@
+.title {
+  font-size: 60px !important;
+  color: black !important;
+}
+
+.quarto-title-author-name {
+  font-size: 40px;
+  color: blue !important;
+}
+
+
+.quarto-title-affiliation {
+  font-size: 30px !important;
+  color: black; !important;
+}
+
+.citation {
+  font-size: 80%;
+}
