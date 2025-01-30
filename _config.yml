@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: Stephen Skalicky
 description: GitHub Pages
 css: style.css
+
+
+links:
+  - title: wanna see a horse?
+    url: test.html
