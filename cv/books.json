@@ -1,0 +1,54 @@
+[
+  {
+    "DOI": "10.1017/9781009234566",
+    "ISBN": "978-1-00-923456-6 978-1-00-923454-2",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          19
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Skalicky",
+        "given": "Stephen"
+      }
+    ],
+    "edition": "1",
+    "id": "skalicky_verbal_2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "publisher": "Cambridge University Press",
+    "title": "Verbal irony processing",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Skalicky",
+        "given": "Stephen"
+      }
+    ],
+    "collection-title": "Language Play and Creativity",
+    "id": "skalicky_why_2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "publisher": "De Gruyter Mouton",
+    "title": "Why so serious? An interdisciplinary approach to humour and play in satirical discourse",
+    "type": "book"
+  }
+]

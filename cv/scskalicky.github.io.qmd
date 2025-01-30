@@ -1,0 +1,109 @@
+---
+title: 'curriculum vitae'
+# source for template: https://github.com/mps9506/quarto-cv
+format:
+  quarto-cv-pdf: default
+author: Stephen C. Skalicky
+date: last-modified
+#theme: sketchy
+#phone: 123-456-7890
+#address: "Wellington · Aotearoa New Zealand"
+email: scskalicky@gmail.com
+fontsize: 10pt
+#fontfamily: carlito
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+mainfont: Times New Roman # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+github: scskalicky
+#orcid: 0000-0002-1825-0097 # orcid identifier
+osf: "4zyr2" # osf five character id
+web: stephenskalicky.com
+fontawesome: yes
+nocite: '@*'
+#bibliography_peer: peer_bib.bib
+bibliography_books: book_bib.bib
+bibliography_inpress: in-press-bib.bib
+bibliography_issued: issued.bib
+bibliography_proceedings: proceedings.bib
+bibliography_chapters: chapters.bib
+validate-yaml: false
+csl: apa-cv.csl
+filters:
+  - multibib
+  - dociteproc
+  - boldname
+citeproc: false
+include-in-header:
+  text: |
+    \usepackage{biblatex}
+    \setlength\bibitemsep{\baselineskip}
+
+
+---
+
+
+# Employment
+
+
+**Senior Lecturer** \hfill 2020--present \
+School of Linguistics and Applied Language Studies \
+Victoria University of Wellington \
+Wellington, Aotearoa--New Zealand
+
+**Lecturer** \hfill 2019--2020\
+School of Linguistics and Applied Language Studies \
+Victoria University of Wellington \
+Wellington, Aotearoa--New Zealand
+
+**Post-Doctoral Researcher** \hfill 2018--2019 \
+Aerospace, Transportation, and Advanced Systems Laboratory \
+Georgia Tech Research Institute (GTRI) \
+Atlanta, Georgia, USA
+
+# Education
+
+PhD *Applied Linguistics* \hfill 2013--2018 \
+Georgia State University, Department of Applied Linguistics & ESL \
+Atlanta, Georgia, USA 
+
+Master of Arts *Rhetoric & Composition* \hfill 2010--2012 \
+Washington State University, Department of English \
+Pullman, Washington, USA 
+
+
+# Publications
+
+## Books
+
+::: {#refs_books}
+
+:::
+
+## Journal Articles
+
+### In-press
+
+::: {#refs_inpress}
+
+:::
+
+### Issued
+
+:::{#refs_issued}
+
+:::
+
+
+## Conference Proceedings
+
+:::{#refs_proceedings}
+
+
+:::
+
+
+## Book Chapters
+
+:::{#refs_chapters}
+
+:::

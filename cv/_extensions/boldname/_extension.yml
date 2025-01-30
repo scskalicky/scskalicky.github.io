@@ -1,0 +1,5 @@
+title: boldname
+quarto-required: ">=1.4"
+contributes:
+      filters: 
+        - boldname.lua
