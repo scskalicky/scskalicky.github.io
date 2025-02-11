@@ -19,6 +19,10 @@
 }
 
 
+body {
+    font: Carlito;
+}
+
 .c-fig {
   display: block;
   margin-left: auto;
