@@ -1,22 +1,25 @@
 ---
-title: 'curriculum vitae'
+title: 'Academic CV'
 # source for template: https://github.com/mps9506/quarto-cv
 format:
-  quarto-cv-pdf: default
+  quarto-cv-pdf: 
+    pdf-engine: xelatex
 author: Stephen C. Skalicky
 date: last-modified
-#theme: sketchy
+#theme: lumen
 #phone: 123-456-7890
 #address: "Wellington · Aotearoa New Zealand"
 email: scskalicky@gmail.com
 fontsize: 10pt
 #fontfamily: carlito
 #fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+CJKmainfont: Hei
+
 mainfont: Times New Roman # if you want to use a different locally installed font
 #CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
 github: scskalicky
 #orcid: 0000-0002-1825-0097 # orcid identifier
-osf: "4zyr2" # osf five character id
+#osf: "4zyr2" # osf five character id
 web: stephenskalicky.com
 fontawesome: yes
 nocite: '@*'
@@ -26,6 +29,7 @@ bibliography_inpress: in-press-bib.bib
 bibliography_issued: issued.bib
 bibliography_proceedings: proceedings.bib
 bibliography_chapters: chapters.bib
+bibliography_bookreviews: book-reviews.bib
 validate-yaml: false
 csl: apa-cv.csl
 filters:
@@ -33,77 +37,276 @@ filters:
   - dociteproc
   - boldname
 citeproc: false
-include-in-header:
-  text: |
-    \usepackage{biblatex}
-    \setlength\bibitemsep{\baselineskip}
-
-
+# include-in-header:
+#   text: |
+#     \usepackage{biblatex}
+#     \setlength\bibitemsep{\baselineskip}
 ---
-
 
 # Employment
 
-
-**Senior Lecturer** \hfill 2020--present \
-School of Linguistics and Applied Language Studies \
-Victoria University of Wellington \
+**Senior Lecturer** \hfill 2020--present\
+School of Linguistics and Applied Language Studies\
+Victoria University of Wellington\
 Wellington, Aotearoa--New Zealand
 
 **Lecturer** \hfill 2019--2020\
-School of Linguistics and Applied Language Studies \
-Victoria University of Wellington \
+School of Linguistics and Applied Language Studies\
+Victoria University of Wellington\
 Wellington, Aotearoa--New Zealand
 
-**Post-Doctoral Researcher** \hfill 2018--2019 \
-Aerospace, Transportation, and Advanced Systems Laboratory \
-Georgia Tech Research Institute (GTRI) \
+**Post-Doctoral Researcher** \hfill 2018--2019\
+Aerospace, Transportation, and Advanced Systems Laboratory\
+Georgia Tech Research Institute (GTRI)\
 Atlanta, Georgia, USA
 
 # Education
 
-PhD *Applied Linguistics* \hfill 2013--2018 \
-Georgia State University, Department of Applied Linguistics & ESL \
-Atlanta, Georgia, USA 
+PhD *Applied Linguistics* \hfill 2013--2018\
+Georgia State University, Department of Applied Linguistics & ESL\
+Atlanta, Georgia, USA
 
-Master of Arts *Rhetoric & Composition* \hfill 2010--2012 \
-Washington State University, Department of English \
-Pullman, Washington, USA 
+Master of Arts *Rhetoric & Composition* \hfill 2010--2012\
+Washington State University, Department of English\
+Pullman, Washington, USA
+
+# Additional Roles & Appointments
+
+## Internal (Te Herenga Waka, Victoria University of Wellington)
+
+-- PhD Program Director, School of Linguistics and Applied Language Studies
+
+--Organising Committee Member: Hub for Simulation, Numerical methods, Analytics and Programming (SNAP)
+
+--Executive Committee Member: VUW Staff Club
+
+--Convener of [LALS leaRning](https://www.stephenskalicky.com/r/index.html) postgraduate study group, an informal group about data and statistics using R.
+
+## External
+
+--Editor: [*New Zealand Studies in Applied Linguistics*](https://www.alanz.org.nz/journal/)
+
+--Editorial Board: *Journal of Second Language Writing*, *Applied Corpus Linguistics*
+
+--Review Panel: Australasian Humour Studies Network (AHSN)
+
+--Executive Committee: Applied Linguistics in Aotearoa New Zealand (ALANZ)
+
 
 
 # Publications
 
-## Books
+### Books
 
 ::: {#refs_books}
-
 :::
 
-## Journal Articles
 
 ### In-press
 
 ::: {#refs_inpress}
+:::
+
+### Journal Articles
+
+::: {#refs_issued}
+:::
+
+### Conference Proceedings
+
+::: {#refs_proceedings}
+:::
+
+### Book Chapters
+
+::: {#refs_chapters}
+:::
+
+### Book Reviews
+
+::: {#refs_bookreviews}
 
 :::
 
-### Issued
+### Media & News
 
-:::{#refs_issued}
+- **Skalicky, S**. (October, 2022). [4.3 trillion readers can’t be wrong – why *The Onion’s* defence of satire should be heard by the US Supreme Court.](https://theconversation.com/4-3-trillion-readers-cant-be-wrong-why-the-onions-defence-of-satire-should-be-heard-by-the-us-supreme-court-192730) *The Conversation*.
 
-:::
+# Invited Talks
+
+- Skalicky, S. (April, 2025). I want to believe: Satire as purposeful insincerity. Lies and Allies Tuesdays, Deception Research Society. Virtual Meeting.
+
+-   Skalicky, S. (February, 2025). Yet another talk about satire: But this one's different (seriously). Keynote Presentation for the 31st Australasian Humour Studies Network (AHSN) Conference. Adelaide, Australia.
+
+-   Skalicky, S. (August, 2024). More than a punchline: Exploring how we think our way through satire. Keynote Presentation for the 2024 Language, Communication, and Culture (LCC) Grad Conference. University of Alberta, Canada (Virtual Conference).
+
+# Conference Presentations
+
+## 2025
+
+- Chan, N.C.L. & **Skalicky, S**. (July, 2025). Comparing self-perceptions of sarcasm use and elicited production of sarcasm in English and Cantonese. Paper presented at the 35th Annual Conference of the International Society for Humor Studies (ISHS), Kraków, Poland.
+
+-   **Skalicky, S**. (July, 2025). Literally un-bee-lievable: American news satire and the US Supreme Court. Paper presented as part of the Humor, Offense and Harm: Adjudicating Jokes in Digital Times panel (Convened by Godioli, A. & Little, L.) at the 35th Annual Conference of the International Society for Humor Studies (ISHS), Kraków, Poland.
+
+- Chan, N.C.L., Siyanova-Chanturia, A., & **Skalicky, S**. (June, 2025). Exploring L1 and L2 English speakers’ comprehension of familiar ironic phrases: Insights from mouse-tracking and reaction times. Paper presented at the 19th International Pragmatics Conference, Brisbane, Australia.
+
+-   Chan, N.C.L., Siyanova-Chanturia, A., & **Skalicky, S**. (March, 2025). How do L1 and L2 speakers of English comprehend familiar multi-word expressions used ironically?. Annual conference of the American Association For Applied Linguistics (AAAL). Denver, Colorado, United States.
+
+-   Chan, N.C.L., Siyanova, A., & **Skalicky, S**. (February, 2025). How do L1 and L2 speakers of English comprehend familiar English phrases used ironically? Paper presented at the 31st Annual Conference of the Australasian Humour Studies Network (AHSN), Adelaide, Australia.
+
+-   **Skalicky, S**. & Attardo, S. (January, 2025). Testing humor theory using word and sentence embeddings. Paper presented at the 1st Workshop on Computational Humor (CHum 2025), part of 31st International Conference on Computational Linguistics (COLING 2025). Abu Dhabi, UAE.
+
+-   Castle, M. & **Skalicky, S**. (January, 2025). How do global trade rules evolve? Mapping the legal language of the trade regime. Paper presented at the Joint Quantitative Political Science Conference for Asia and Australasia, Wellington, New Zealand.
+
+## 2024
+
+-   **Skalicky, S**. (August, 2024). Appearances can be deceiving: Comparing written news satire across the political spectrum. Paper presented at the ALANZ 1st Writing Symposium. Wellington, New Zealand.
+
+-   **Skalicky, S**., Chan, N. C. L., & Pramastiwi, P. (July, 2024). Assessing comprehension of satirical discourse through one-word descriptions: Can less be more? Spoken Presentation presented at the 2024 Annual Meeting of the Society for Text and Discourse. Chicago, USA.
+
+-   Castle, M. & **Skalicky, S**. (July, 2024). What can the text of international trade agreements tell us about fluctuations in the global trade regime? Poster presented at the 2024 Annual Meeting of the Society for Text and Discourse. Chicago, USA.
+
+-   **Skalicky, S**. (April, 2024). An interdisciplinary account of satire. Paper presented at the 2024 International Society for Humor Studies / Humor Research Conference, Virtual Conference.
+
+-   Kim, Y., Han, Y., Kang, S., Namkung, Y., Cho, H., & **Skalicky, S**. (March, 2024). Learning honorific request-making expressions through alignment during mobile text-chat: Comparing provision of primes and recasts. Paper presented at the 2024 American Association for Applied Linguistics (AAAL), Houston, TX, USA.
+
+-   **Skalicky, S**., Siyanova-Chanturia, A., & Chan, N. C. L. (February, 2024). Extending the psycholinguistic study of verbal irony to second-language contexts. Paper presented at the 30th Annual Conference of the Australasian Humour Studies Network (AHSN), Brisbane, Australia.
+
+## 2023
+
+-   Ruo, L. & **Skalicky, S**. (December, 2023). The semantic transparency of Chinese idioms. Paper presented at the 2023 Vocab\@Vic Conference, Wellington, New Zealand.
+
+-   **Skalicky, S**. & Chen, V. (November, 2023) L1 and L2 processing of plausible and implausible English passives. Paper presented at the New Zealand Linguistic Society 2019 Conference, Auckland, New Zealand.
+
+-   **Skalicky, S**. (July, 2023). Analysing conceptual comparisons produced by English L1 and bilingual speakers using computational measures of semantic similarity. Paper presented at the 14th International Symposium on Bilingualism (ISB14), Sydney, Australia.
+
+-   Miller, S., Loomis, J., **Skalicky, S**., Attardo, S. (July, 2023). Pragmatic differences between left- and right-wing online satirical news. Paper presented at the 18th International Pragmatics Conference, Brussels, Belgium.
+
+-   Castle, M. & **Skalicky, S**. (July, 2023). Evolution and innovation in global trade norms: Insights from quantitative text analysis. Paper presented at the International Society of Public Law 9th Annual Conference, Wellington, New Zealand.
+
+-   **Skalicky, S**. & Chen, V. (March, 2023). Agent or location? Exploring the processing of the passivized by-phrase in monolingual and L2 speakers. Paper presented at the 2023 American Association for Applied Linguistics (AAAL), Portland, OR, USA.
+
+-   Petterson, L. & **Skalicky, S**. (March, 2023). The dynamic development of complexity, accuracy and fluency in spoken Thai: A longitudinal case study. Paper presented at the 2023 American Association for Applied Linguistics (AAAL), Portland, OR, USA.
+
+-   **Skalicky, S**. (February, 2023). Where is the satire in satirical text? Paper presented at the Capital City Complex Systems Symposium, Wellington, New Zealand.
+
+-   **Skalicky, S**. (February, 2023). What’s up with Satirical Uptake? Paper presented at the 29th Annual Conference of the Australasian Humour Studies Network (AHSN), Sydney, Australia.
+
+-   Hume, A. & **Skalicky, S**. (February, 2023). Target identification and message interpretation in a satirical New Zealand public service announcement. Paper presented at the 29th Annual Conference of the Australasian Humour Studies Network (AHSN), Sydney, Australia.
+
+## 2022
+
+-   Hume, A. & **Skalicky, S**. (September, 2022). Give nothing to satire: Kiwis and inward facing satire. Paper presented at the 13th Annual Conference on Researching and Applying Metaphor (RaAM). Virtual Conference.
+
+-   **Skalicky, S**. (July, 2022). Recognising satirical intent in satirical new discourse: Effects of reading behaviour and Need for Cognition. Standard Presentation presented at the 2022 Annual Meeting of the Society for Text and Discourse. Virtual Conference
+
+-   **Skalicky, S**., Bell, N. D., Dascalu, M., & Crossley, S. A. (July, 2022). “A fork is a food stabber”: Linguistic creativity in English L1 and L2 speakers. Poster presented at the 2022 Meeting of the Cognitive Science Society. Toronto, Canada.
+
+-   **Skalicky, S**. and Chen, V. (March, 2022). L1 transfer effects in thematic role mapping: A case study of by-phrase selection. Poster presented at the 35th Annual Conference on Human Sentence Processing (HSP 2022). Virtual Conference.
+
+-   **Skalicky, S**., Brugman, B., Droog, E., & Burgers, C. (February, 2022). Does psychological distance influence the effects of satirical news? Evidence comparing NZ and UK audiences. Paper presented at the 28th Australasian Humour Studies Network (AHSN) Conference. Hobart, Australia.
+
+## 2021
+
+-   **Skalicky, S**. (August, 2021). Comparing sentence reading times for satirical and non-satirical news texts. Standard Presentation presented at the 2021 Annual Meeting of the Society for Text and Discourse. Virtual Conference.
+
+-   Tighe, E. L., Kaldes, G., Talwar, A., Crossley, S. A., Greenberg, D., & **Skalicky, S**. (July, 2021). Do struggling adult readers monitor their reading?: Understanding the role of online and offline comprehension monitoring processes during reading. Paper presented as part of a symposia entitled, “Adults with Low Academic Skills” at the 28th annual Society for the Scientific Study of Reading (SSSR) Conference, Virtual Meeting.
+
+-   **Skalicky, S**., Crossley, S. A., & Berger, C. M. (March, 2021). Replication of Berger et al. (2019): Further insights from crowdsourced L2 lexical decision behaviour. Paper presented at the 2021 American Association for Applied Linguistics (AAAL) Virtual Conference.
+
+-   **Skalicky, S**., Duran, N,. & Crossley, S. A. (February, 2021). Truth is stranger than fiction: Modelling the linguistic features of humorous deception. Paper presented at the at the New Zealand Linguistic Society 2021 Conference. Hamilton, New Zealand.
+
+-   Cho, Isaac Y., & **Skalicky, S**. (February, 2021). Super easy, barely an inconvenience! Humorous vari-directional double voicing in the YouTube series Pitch Meetings. Paper presented at the 27th Australasian Humour Studies Network (AHSN) Conference. Wellington, New Zealand.
+
+-   **Skalicky, S**. (February, 2021). Which is more creative: metaphor, sarcasm, or wordplay? Paper presented at the 27th Australasian Humour Studies Network (AHSN) Conference. Wellington, New Zealand.
+
+## 2020
+
+-   **Skalicky, S**., Kim, Y, & Jung, Y. (November, 2020) Recent findings from linguistic alignment: Examining modality, target structure, and individual differences. Paper presented at the 2020 Applied Linguistics in Aotearoa New Zealand (ALANZ) Symposium. Dunedin, New Zealand.
+
+-   **Skalicky, S**., Crossley, S.A., & Berger, C.M. (March, 2020). Exploring individual experiences learning English, linguistic features, and L2 English lexical recognition behaviour. Paper presented at the 2020 American Association for Applied Linguistics (AAAL) Conference. Denver, USA. \[Conference Cancelled\]
+
+-   **Skalicky, S**. (February, 2020). Investigating perceptions of humour and novelty in figurative language production. Paper presented at the 26th Australasian Humour Studies Network (AHSN) Conference. Brisbane, Australia.
+
+## 2019
+
+-   **Skalicky, S**. (December, 2019). Evaluation in satirical and non-satirical newspaper headlines. Paper presented at the 7th New Zealand Discourse Conference. Wellington, New Zealand.
+
+-   **Skalicky, S**., Crossley, S.A., & Berger, C.M. (November, 2019). Analysing the effects of lexical properties on lexical recognition behaviour of L2 English users. Paper presented at the New Zealand Linguistic Society 2019 Conference. Christchurch, New Zealand.
+
+-   **Skalicky, S**., Crossley, S.A., McNamara, D.S., & Muldner, K. (July, 2019). Measuring creative ability in spoken bilingual text: The role of language proficiency and linguistic features. Paper presented at the 2019 Meeting of the Cognitive Science Society. Montréal, Canada.
+
+-   **Skalicky, S**. (June, 2019). Modeling the Role of Individual Perceptions of Humor, Sincerity, and Positivity on Written Satire Comprehension. Paper presented at the 2019 Conference of the International Society for Humor Studies (ISHS). Austin, USA.
+
+-   Berger, C. M., **Skalicky, S**., & Crossley, S. A. (March, 2019). Analysis of a large dataset of L2 lexical decision behavior to investigate L2 English word recognition. Paper presented at the 2019 American Association for Applied Linguistics (AAAL) Conference. Atlanta, USA.
+
+# Grants & Awards
+
+## External
+
+### Duolingo Efficacy Grant ($80,000 USD; 2022--2023)
+  - The development of French oral skills: Comparing the effectiveness of Duolingo, classroom instruction, and Duolingo + classroom instruction conditions.
+  - Investigators: Kim, YouJin (PI), Payant, Caroline, (Co-PI), & **Skalicky, Stephen** (Co-PI)
+  - Duolingo
+    
+## Internal
+
+### University Strategic Cross-Disciplinary Fund ($40,000 NZD; 2022--2025)
+  - How do global trade rules evolve? Mapping the legal language of economic cooperation in a complex system.
+  - Investigators: Castle, Matthew. (Co-PI) & **Skalicky, Stephen** (Co-PI)
+  - University Research Council, Victoria University of Wellington
 
 
-## Conference Proceedings
+### Faculty Strategic Research Grant ($80,000 NZD; 2022-2024)
+  - Sarcasm use across language families.
+  - Investigators: **Skalicky, Stephen** (PI) & Chen, Victoria (Co-PI)
+  - Faculty of Humanities and Social Sciences, Victoria University of Wellington
+  
+# Teaching and Supervision
 
-:::{#refs_proceedings}
+## Undergraduate
+
+- Introduction to Computational Linguistics
+    - *Second year undergraduate introduction to Python and natural language processing.*
+
+- Language and Creativity
+    - *Third year undergraduate special topic exploring figurative and creative language.*
+    
+- Psycholinguistics
+  - *Third year undergraudate module learning psycholinguistic theory, method, and analysis.*
+    
+## Postgraduate (Taught Masters)
+
+- Exploring grammar using corpus linguistics
+    - *Learning corpus linguistic methods to analyse lexico-grammatical structures*
+    
+- Second language acquisition
+    - *Introduction to second language acquisition theory and practice.*
 
 
-:::
+## PhD Supervision
+
+- Currently Supervising: 9 students
+- Graduated: 3 students
 
 
-## Book Chapters
+# Professional Membership
+- The Association For Researching And Applying Metaphor (RaAM)
+- Australasian Humour Studies Network (AHSN)
+- International Society for Humor Studies (ISHS)
+- New Zealand Linguistic Society (NZ LingSoc)
+- Society for Text and Discourse (ST&D)
 
-:::{#refs_chapters}
+# Natural Languages
+- English – Native
+- Mandarin Chinese – Low Intermediate (我还在努力学习中)
 
-:::
+
+# Programming Languages
+- Proficient in R and Python
+- Familiar with JavaScript, HTML, & CSS
+
+# Citizenship & Residency
+- Canada (Citizen, birth) 
+- USA (Citizen, naturalised)
+- Aotearoa New Zealand (Permanent Resident)
