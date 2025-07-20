@@ -14,6 +14,8 @@ Weekly meetings going over different sections of the book. Each week will be run
 2. Summarise the main points / takeaways from the reading (including using code)
 3. Include new examples and/or questions remaining about the reading
 
+Participants are asked to please read the relevant sections before each workshop - the goal is for us to work through the material collaboratively. 
+
 If you cannot attend in person, you can join via Zoom: 
 
 https://vuw.zoom.us/j/97898595979
