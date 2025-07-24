@@ -22,11 +22,11 @@ https://vuw.zoom.us/j/97898595979
 
 ### Schedule
 
-| Book section | Facilitator | Date & time | Location |
-| :--: | :--: | :--: | :--: |
-|2.1 - 2.6 | Lydia | 24 July 2025 | 15.00-16.00 | vz 204|
-|2.6 - 2.10 | Paul J.| 31 July 2025 | 13.00-14.00 | vz 201|
-|3.1 - 3.3 | ??? | 7 August | 15.00-16.00| vz204|
-|3.4 - 3.6 | ??? | 14 August | 15.00-16.00| vz204|
-|3.7 - 3.9| ??? | 21 August | 15.00-16.00| vz204|
-|4.1 - 4.5 | Stephen | 28 August | 15.00-16.00| vz204|
+| Book section | Topic |  Facilitator | Date & time | Location |
+| :--: | :--: | :--: | :--: | :--: |
+|2.1 - 2.6 | Tidyverse|Lydia | 24 July 2025 | 15.00-16.00 | vz 204|
+|2.6 - 2.10 |  R Markdown|Paul J.| 31 July 2025 | 13.00-14.00 | vz 201|
+|3.1 - 3.3 | The normal distribution|??? | 7 August | 15.00-16.00| vz204|
+|3.4 - 3.6 |Mean as model |??? | 14 August | 15.00-16.00| vz204|
+|3.7 - 3.9| Summary statistics|??? | 21 August | 15.00-16.00| vz204|
+|4.1 - 4.5 |Intro to linear model |Stephen | 28 August | 15.00-16.00| vz204|
