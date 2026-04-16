@@ -46,13 +46,13 @@ citeproc: false
 # Employment
 
 **Senior Lecturer** \hfill 2020--present\
-School of Linguistics and Applied Language Studies (LALS)\
-Te Herenga Waka \| Victoria University of Wellington (VUW)\
+School of Linguistics and Applied Language Studies\
+Te Herenga Waka | Victoria University of Wellington\
 Wellington, Aotearoa--New Zealand
 
 **Lecturer** \hfill 2019--2020\
-School of Linguistics and Applied Language Studies (LALS)\
-Te Herenga Waka \| Victoria University of Wellington (VUW)\
+School of Linguistics and Applied Language Studies\
+Te Herenga Waka | Victoria University of Wellington\
 Wellington, Aotearoa--New Zealand
 
 **Post-Doctoral Researcher** \hfill 2018--2019\
@@ -70,49 +70,59 @@ Master of Arts *Rhetoric & Composition* \hfill 2010--2012\
 Washington State University, Department of English\
 Pullman, Washington, USA
 
-# Additional Roles & Appointments
 
-***Current***
+# Additional Roles & Appointments 
 
--- Co-Editor (with Nancy Bell) of [*Language Play and Creativity* Monograph Series](https://www.degruyterbrill.com/serial/lpc-b/html) (2026--present)
+*Internal to THW-VUW*
 
--- Director of Language Sciences Program \@ VUW (2026--Present)
+1. PhD Program Director, School of Linguistics and Applied Language Studies\hfill (2024--Present)\ 
 
--- Convener of [LALS leaRning Group](https://www.stephenskalicky.com/r/index.html) (2022--present)
+2. Convener of [LALS leaRning Group](https://www.stephenskalicky.com/r/index.html)\hfill(2022--Present)\ 
 
--- Executive Committee, University Staff Club (2022--Present)
+3. Executive Committee: University Staff Club\hfill(2022--Present)\ 
 
--- Review Panel Member: [Australasian Humour Studies Network (AHSN)](https://ahsnhumourstudies.org/) (2024--present)
+4. University Human Ethics Committee\hfill(2022--2023)\ 
 
--- Guest Editor of Special Issue *Leveraging Computational and Digital Approaches to Examine Figurative and Humorous Language* in *Digital Studies in Language and Literature* (2026) 
+5. Faculty Academic Committee, Faculty of Humanities and Social Science\hfill(2020--2023)\ 
 
-***Previous*** 
+6. Seminar Series Coordinator, School of Linguistics & Applied Language\  Studies\hfill(2019--2022) 
 
--- Convener of the [32nd Australasian Humour Studies Network Conference](https://ahsnhumourstudies.org/annual-conference/) (2026) 
+*External to THW-VUW*
 
--- Director of LALS PhD Program (2024--2026) 
+1. Editor: [*New Zealand Studies in Applied Linguistics*](https://www.alanz.org.nz/journal/)\ 
 
--- Editor: [*New Zealand Studies in Applied Linguistics*](https://www.alanz.org.nz/journal/) (2023--2026)
+2. Co-Editor (with Nancy Bell) of [*Language Play and Creativity* Monograph Series](https://www.degruyterbrill.com/serial/lpc-b/html)\ 
 
--- Review Board Member, VUW University Human Ethics Committee (2022--2023)
+3. Convener of the [32nd Australasian Humour Studies Network Conference](https://ahsnhumourstudies.org/annual-conference/)
 
--- LALS Representative: Faculty Academic Committee, Faculty of Humanities and Social Science (2020--2023) 
+4. Guest Editor for Special Issue *Leveraging Computational and Digital Approaches to Examine Figurative and Humorous Language* in *Digital Studies in Language and Literature*\ 
 
--- LALS Seminar Series Coordinator (2019--2022)
+5. Review Panel Member: [Australasian Humour Studies Network (AHSN)](https://ahsnhumourstudies.org/)\ 
 
 
-***Editorial Boards***
+*Editorial Boards*\ 
 
--- *Journal of Second Language Writing* (Quantitative methods reviewer)
-
--- *Applied Corpus Linguistics*
+1. *Journal of Second Language Writing* (Quantitative methods reviewer)\ 
+  
+2. *Applied Corpus Linguistics*\ 
 
 # Publications
+
+### Under Review
+
+**Skalicky, S.** & Salvatore, A. (Under review). Measuring incongruity in humorous one liners using word embeddings. *Studies in American Humor* (Under first review, invited manuscript for special issue).
+
+**Skalicky, S.** & Chen, V. (Under review). L1 and L2 understanding of implausible English passives in discourse contexts. 
+*Applied Psycholinguistics*. (Second revision, minor revise and resubmit)
+
+**Skalicky, S.,** Chan, N.C.L., & Siyanova-Chanturia, A. (Under review). Testing sarcasm recognition in a second language: A conceptual replication. *Language Learning*. (First revision, major revise and resubmit)
+
 
 ### Books
 
 ::: {#refs_books}
 :::
+
 
 ### In-press
 
@@ -137,17 +147,16 @@ Pullman, Washington, USA
 ### Book Reviews
 
 ::: {#refs_bookreviews}
+
 :::
 
 ### Media & News
 
--   **Skalicky, S**. (November 30, 2025). Should we teach AI to be funny? TVNZ Q+A feature segment with Whena Owen. [YouTube](https://youtu.be/GmlQHx_FA4M?si=w1K0AIBHI6pDLUZ3); [TVNZ](https://www.tvnz.co.nz/shows/q-and-a/clips/should-we-teach-ai-to-be-funny)
-
--   **Skalicky, S**. (October, 2022). [4.3 trillion readers can’t be wrong – why *The Onion’s* defence of satire should be heard by the US Supreme Court.](https://theconversation.com/4-3-trillion-readers-cant-be-wrong-why-the-onions-defence-of-satire-should-be-heard-by-the-us-supreme-court-192730) *The Conversation*.
+- **Skalicky, S**. (October, 2022). [4.3 trillion readers can’t be wrong – why *The Onion’s* defence of satire should be heard by the US Supreme Court.](https://theconversation.com/4-3-trillion-readers-cant-be-wrong-why-the-onions-defence-of-satire-should-be-heard-by-the-us-supreme-court-192730) *The Conversation*.
 
 # Invited Talks
 
--   Skalicky, S. (April, 2025). I want to believe: Satire as purposeful insincerity. Lies and Allies Tuesdays, Deception Research Society. Virtual Meeting.
+- Skalicky, S. (April, 2025). I want to believe: Satire as purposeful insincerity. Lies and Allies Tuesdays, Deception Research Society. Virtual Meeting.
 
 -   Skalicky, S. (February, 2025). Yet another talk about satire: But this one's different (seriously). Keynote Presentation for the 31st Australasian Humour Studies Network (AHSN) Conference. Adelaide, Australia.
 
@@ -155,25 +164,19 @@ Pullman, Washington, USA
 
 # Conference Presentations
 
-## 2026
-
--   Chan, N.C.L, **Skalicky, S**, & Siyanova-Chanturia, A. (September, 2026). Capturing L1 and L2 irony processing through action-dynamics: Insights from mouse-tracking. Paper presented at the 9th International Conference on Figurative Language and Thought (FTL 9). Valencia, Spain.
-
 ## 2025
 
--   Chan, N.C.L, **Skalicky, S**, & Siyanova-Chanturia, A. (November, 2025). Self-perceptions of English sarcasm use by L1 English speakers and L2 English speaker of Cantonese and Mandarin L1 Backgrounds. Paper presented at the New Zealand Linguistic Society 2025 Conference, Wellington, New Zealand.
+- **Skalicky, S**. (October, 2025). Satire as fictional situational irony. Paper presented at The Figure of Irony Revisted 2025 Workshop, Virtual Workshop. 
 
--   **Skalicky, S**. (October, 2025). Satire as fictional situational irony. Paper presented at The Figure of Irony Revisted 2025 Workshop, Virtual Workshop.
-
--   Chan, N.C.L. & **Skalicky, S**. (July, 2025). Comparing self-perceptions of sarcasm use and elicited production of sarcasm in English and Cantonese. Paper presented at the 35th Annual Conference of the International Society for Humor Studies (ISHS), Kraków, Poland.
+- Chan, N.C.L. & **Skalicky, S**. (July, 2025). Comparing self-perceptions of sarcasm use and elicited production of sarcasm in English and Cantonese. Paper presented at the 35th Annual Conference of the International Society for Humor Studies (ISHS), Kraków, Poland.
 
 -   **Skalicky, S**. (July, 2025). Literally un-bee-lievable: American news satire and the US Supreme Court. Paper presented as part of the Humor, Offense and Harm: Adjudicating Jokes in Digital Times panel (Convened by Godioli, A. & Little, L.) at the 35th Annual Conference of the International Society for Humor Studies (ISHS), Kraków, Poland.
 
--   Chan, N.C.L., Siyanova-Chanturia, A., & **Skalicky, S**. (June, 2025). Exploring L1 and L2 English speakers’ comprehension of familiar ironic phrases: Insights from mouse-tracking and reaction times. Paper presented at the 19th International Pragmatics Conference, Brisbane, Australia.
+- Chan, N.C.L., Siyanova-Chanturia, A., & **Skalicky, S**. (June, 2025). Exploring L1 and L2 English speakers’ comprehension of familiar ironic phrases: Insights from mouse-tracking and reaction times. Paper presented at the 19th International Pragmatics Conference, Brisbane, Australia.
 
 -   Chan, N.C.L., Siyanova-Chanturia, A., & **Skalicky, S**. (March, 2025). How do L1 and L2 speakers of English comprehend familiar multi-word expressions used ironically?. Annual conference of the American Association For Applied Linguistics (AAAL). Denver, Colorado, United States.
 
--   Chan, N.C.L., Siyanova-Chanturia, A., & **Skalicky, S**. (February, 2025). How do L1 and L2 speakers of English comprehend familiar English phrases used ironically? Paper presented at the 31st Annual Conference of the Australasian Humour Studies Network (AHSN), Adelaide, Australia.
+-   Chan, N.C.L., Siyanova, A., & **Skalicky, S**. (February, 2025). How do L1 and L2 speakers of English comprehend familiar English phrases used ironically? Paper presented at the 31st Annual Conference of the Australasian Humour Studies Network (AHSN), Adelaide, Australia.
 
 -   **Skalicky, S**. & Attardo, S. (January, 2025). Testing humor theory using word and sentence embeddings. Paper presented at the 1st Workshop on Computational Humor (CHum 2025), part of 31st International Conference on Computational Linguistics (COLING 2025). Abu Dhabi, UAE.
 
@@ -265,85 +268,85 @@ Pullman, Washington, USA
 
 ## External
 
-### Marsden Fund Council Fast-Start Grant (\$360,000 NZD; 2026-2029)
+### Marsden Fast-Start ($360,000 NZD; 2026-2029)
+  - An ironic frame of mind: Investigating the central role of irony in human cognition
+  - Investigators: **Skalicky, Stephen** (PI)
+  - New Zealand Royal Society
 
--   An ironic frame of mind: Investigating the central role of irony in human cognition
--   Investigators: **Skalicky, Stephen** (PI)
--   Royal Society Te Apārangi, Aoterora New Zealand
-
-### Duolingo Efficacy Grant (\$80,000 USD; 2022--2023)
-
--   The development of French oral skills: Comparing the effectiveness of Duolingo, classroom instruction, and Duolingo + classroom instruction conditions.
--   Investigators: Kim, YouJin (PI), Payant, Caroline, (Co-PI), & **Skalicky, Stephen** (Co-PI)
--   Duolingo
-
+### Duolingo Efficacy Grant ($80,000 USD; 2022--2023)
+  - The development of French oral skills: Comparing the effectiveness of Duolingo, classroom instruction, and Duolingo + classroom instruction conditions.
+  - Investigators: Kim, YouJin (PI), Payant, Caroline, (Co-PI), & **Skalicky, Stephen** (Co-PI)
+  - Duolingo
+    
 ## Internal
 
-### University Strategic Cross-Disciplinary Fund (\$40,000 NZD; 2022--2025)
+### University Strategic Cross-Disciplinary Fund ($40,000 NZD; 2022--2025)
+  - How do global trade rules evolve? Mapping the legal language of economic cooperation in a complex system.
+  - Investigators: Castle, Matthew. (Co-PI) & **Skalicky, Stephen** (Co-PI)
+  - University Research Council, Victoria University of Wellington
 
--   How do global trade rules evolve? Mapping the legal language of economic cooperation in a complex system.
--   Investigators: Castle, Matthew. (Co-PI) & **Skalicky, Stephen** (Co-PI)
--   University Research Council, Victoria University of Wellington
 
-### Faculty Strategic Research Grant (\$80,000 NZD; 2022-2024)
-
--   Sarcasm use across language families.
--   Investigators: **Skalicky, Stephen** (PI) & Chen, Victoria (Co-PI)
--   Faculty of Humanities and Social Sciences, Victoria University of Wellington
-
+### Faculty Strategic Research Grant ($80,000 NZD; 2022-2024)
+  - Sarcasm use across language families.
+  - Investigators: **Skalicky, Stephen** (PI) & Chen, Victoria (Co-PI)
+  - Faculty of Humanities and Social Sciences, Victoria University of Wellington
+  
 # Teaching and Supervision
 
 ## Undergraduate
 
--   Introduction to Computational Linguistics (2021--present)
-    -   *Second year undergraduate introduction to Python and natural language processing.*
--   Foundations of Cognitive Science (2025--present)
-    -   *Second year undergraduate course on cognitive science; I teach three modules related to humour and irony*
--   Psycholinguistics (starting 2026)
-    -   *Third year undergraduate course learning psycholinguistic theory, method, and analysis.*
--   Language and Creativity (2021)
-    -   *Third year undergraduate special topic exploring figurative and creative language.*
+- Introduction to Computational Linguistics (2021--present)
+    - *Second year undergraduate introduction to Python and natural language processing.*
 
+- Foundations of Cognitive Science (2025--present)
+  - *Second year undergraduate course on cognitive science; I teach three modules related to humour and irony*
+
+- Psycholinguistics (starting 2026)
+  - *Third year undergraduate course learning psycholinguistic theory, method, and analysis.*
+  
+- Language and Creativity (2021)
+    - *Third year undergraduate special topic exploring figurative and creative language.*
+    
 ## Postgraduate (Taught Masters)
 
--   Exploring grammar using corpus linguistics (2019--2023)
-    -   *Learning corpus linguistic methods to analyse lexico-grammatical structures*
--   Second language acquisition (2019--present)
-    -   *Introduction to second language acquisition theory and practice.*
+- Exploring grammar using corpus linguistics (2019--2023)
+    - *Learning corpus linguistic methods to analyse lexico-grammatical structures*
+    
+- Second language acquisition (2019--present)
+    - *Introduction to second language acquisition theory and practice.*
+
 
 ## PhD Supervision
 
--   Currently Supervising: 9 PhD students
--   Graduated: 3 PhD students
+- Currently Supervising: 9 PhD students
+- Graduated: 3 PhD students
+
 
 ## **Workshops & Short Courses**
 
-Skalicky, S. (December, 2024). Learning NLP with Python in 90 Minutes: Colab, NLTK and spaCy. Part of the Vocab\@Vic 2023 Summer School, Wellington, New Zealand).
+Skalicky, S. (December, 2024). Learning NLP with Python in 90 Minutes: Colab, NLTK and spaCy. Part of the Vocab@Vic 2023 Summer School, Wellington, New Zealand). 
 
-Skalicky, S. (June, 2023). Intro to Natural Language Processing using Python. Beginner level tutorial, ResBaz Research Bazaar Aotearoa 2023.
+Skalicky, S. (June, 2023). Intro to Natural Language Processing using Python. Beginner level tutorial, ResBaz Research Bazaar Aotearoa 2023. 
 
 Skalicky, S. (November, 2022). Introduction to Python's Natural Language Toolkit for textual analysis. ResBaz Beginner level tutorial, Research Bazaar Aotearoa 2022.
 
 # Professional Membership
-
--   The Association For Researching And Applying Metaphor (RaAM)
--   Australasian Humour Studies Network (AHSN)
--   International Society for Humor Studies (ISHS)
--   New Zealand Linguistic Society (NZ LingSoc)
--   Society for Text and Discourse (ST&D)
+- The Association For Researching And Applying Metaphor (RaAM)
+- Australasian Humour Studies Network (AHSN)
+- International Society for Humor Studies (ISHS)
+- New Zealand Linguistic Society (NZ LingSoc)
+- Society for Text and Discourse (ST&D)
 
 # Natural Languages
+- English – Native
+- Mandarin Chinese – Low Intermediate (我还在努力学习中)
 
--   English – Native
--   Mandarin Chinese – Low Intermediate (我还在努力学习中)
 
 # Programming Languages
-
--   Proficient in R and Python
--   Familiar with JavaScript, HTML, & CSS
+- Proficient in R and Python
+- Familiar with JavaScript, HTML, & CSS
 
 # Citizenship & Residency
-
--   Canada (Citizen, birth)
--   USA (Citizen, naturalised)
--   Aotearoa New Zealand (Permanent Resident)
+- Canada (Citizen, birth) 
+- USA (Citizen, naturalised)
+- Aotearoa New Zealand (Permanent Resident)
