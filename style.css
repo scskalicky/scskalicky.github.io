@@ -33,3 +33,8 @@ body {
 .small {
   font-size: 0.6em;
 }
+
+.reveal section.big-code-slide pre code {
+  max-height: none;     /* removes scrollbars */
+  font-size: 1.2em;     /* optional: bigger text */
+}
