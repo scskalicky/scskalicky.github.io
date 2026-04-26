@@ -28,9 +28,7 @@ body {
   height: 80vh; /* tweak this */
 }
 
-body {
-  background: red !important;
-}
+
 
 .c-fig {
   display: block;
