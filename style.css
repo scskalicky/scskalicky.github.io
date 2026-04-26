@@ -23,6 +23,11 @@ body {
     font: Carlito;
 }
 
+.reveal .mermaid {
+  width: 100%;
+  height: 80vh; /* tweak this */
+}
+
 .c-fig {
   display: block;
   margin-left: auto;
@@ -35,7 +40,7 @@ body {
 }
 
 .medium {
-  font-size: 0.8em
+  font-size: 0.8em;
 }
 
 .reveal section.big-code-slide pre code {
