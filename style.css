@@ -48,7 +48,14 @@ body {
   font-size: 0.8em;
 }
 
-.reveal section.big-code-slide pre code {
-  max-height: none;     /* removes scrollbars */
-  font-size: 1.2em;     /* optional: bigger text */
+
+.reveal .center-mermaid {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reveal .center-mermaid .mermaid {
+  margin: 0 auto;
 }
