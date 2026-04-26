@@ -56,6 +56,7 @@ body {
   align-items: center;
 }
 
-.reveal .center-mermaid .mermaid {
-  margin: 0 auto;
+.mermaid-c {
+  margin: auto;
+  text-align: center;
 }
