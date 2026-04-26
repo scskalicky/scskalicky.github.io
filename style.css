@@ -36,28 +36,9 @@ body {
   margin-right: auto
 }
 
-/* Make the container big */
-.reveal .cell-output-display {
-  height: 85vh;
-  width: 100%;
+.reveal .big-diagram {
+  height: 90vh;
 }
-
-/* Let mermaid fill it */
-.reveal .mermaid {
-  width: 100% !important;
-  height: 100% !important;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-/* Force SVG scaling */
-.reveal .mermaid svg {
-  width: 100% !important;
-  height: 100% !important;
-  max-width: none !important;
-}
-
 
 .small {
   font-size: 0.6em;
