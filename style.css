@@ -59,3 +59,7 @@ body {
 .mermaid-c {
   text-align: center;
 }
+
+div.references {
+  font-size: 0.5em; /* Adjust as needed */
+}
