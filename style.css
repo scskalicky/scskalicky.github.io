@@ -52,6 +52,13 @@ body {
   display: none;
 }
 
+.reveal section.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
 .reveal .center-mermaid {
   height: 100%;
   display: flex;
