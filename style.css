@@ -48,6 +48,9 @@ body {
   font-size: 0.8em;
 }
 
+.reveal section.no-title h2 {
+  display: none;
+}
 
 .reveal .center-mermaid {
   height: 100%;
